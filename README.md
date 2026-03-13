@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myount900516-diamond&" alt="myount900516-diamond" /></p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/본인의 백준 ID/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoung900516)](https://solved.ac/myoung900516/)
